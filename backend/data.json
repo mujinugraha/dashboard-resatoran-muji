@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "nama_bahan": "Beras Muji Premium",
+    "kategori": "Beras & Biji",
+    "stok": 55,
+    "satuan": "kg"
+  },
+  {
+    "id": 2,
+    "nama_bahan": "Ayam Kampung Nugraha",
+    "kategori": "Daging",
+    "stok": 12,
+    "satuan": "kg"
+  },
+  {
+    "id": 3,
+    "nama_bahan": "Cabai Rawit Muji",
+    "kategori": "Bumbu",
+    "stok": 3,
+    "satuan": "kg"
+  },
+  {
+    "id": 4,
+    "nama_bahan": "Bawang Merah Brebes",
+    "kategori": "Bumbu",
+    "stok": 0,
+    "satuan": "kg"
+  },
+  {
+    "id": 5,
+    "nama_bahan": "Tomat Cherry Muji",
+    "kategori": "Sayuran",
+    "stok": 8,
+    "satuan": "kg"
+  },
+  {
+    "id": 6,
+    "nama_bahan": "Santan Muji Kara",
+    "kategori": "Produk Olahan",
+    "stok": 25,
+    "satuan": "pcs"
+  },
+  {
+    "id": 7,
+    "nama_bahan": "Telur Ayam Omega Muji",
+    "kategori": "Produk Olahan",
+    "stok": 2,
+    "satuan": "kg"
+  },
+  {
+    "id": 8,
+    "nama_bahan": "Kangkung Muji Fresh",
+    "kategori": "Sayuran",
+    "stok": 5,
+    "satuan": "ikat"
+  },
+  {
+    "id": 9,
+    "nama_bahan": "Jahe Merah Muji",
+    "kategori": "Bumbu",
+    "stok": 7,
+    "satuan": "kg"
+  },
+  {
+    "id": 10,
+    "nama_bahan": "Sapi Wagyu Muji",
+    "kategori": "Daging",
+    "stok": 0,
+    "satuan": "kg"
+  },
+  {
+    "id": 11,
+    "nama_bahan": "Garam Himalaya Muji",
+    "kategori": "Bumbu",
+    "stok": 15,
+    "satuan": "kg"
+  },
+  {
+    "id": 12,
+    "nama_bahan": "Bayam Hijau Muji",
+    "kategori": "Sayuran",
+    "stok": 4,
+    "satuan": "ikat"
+  },
+  {
+    "id": 13,
+    "nama_bahan": "Kecap Manis Muji",
+    "kategori": "Produk Olahan",
+    "stok": 18,
+    "satuan": "liter"
+  },
+  {
+    "id": 14,
+    "nama_bahan": "Bawang Putih Kating",
+    "kategori": "Bumbu",
+    "stok": 6,
+    "satuan": "kg"
+  },
+  {
+    "id": 15,
+    "nama_bahan": "Udang Vaname Muji",
+    "kategori": "Seafood",
+    "stok": 9,
+    "satuan": "kg"
+  },
+  {
+    "id": 16,
+    "nama_bahan": "Wortel Berastagi Muji",
+    "kategori": "Sayuran",
+    "stok": 11,
+    "satuan": "kg"
+  },
+  {
+    "id": 17,
+    "nama_bahan": "Minyak Goreng Muji",
+    "kategori": "Produk Olahan",
+    "stok": 1,
+    "satuan": "liter"
+  },
+  {
+    "id": 18,
+    "nama_bahan": "Kunyit Muji",
+    "kategori": "Bumbu",
+    "stok": 20,
+    "satuan": "kg"
+  },
+  {
+    "id": 19,
+    "nama_bahan": "Jamur Shitake Muji",
+    "kategori": "Sayuran",
+    "stok": 3,
+    "satuan": "pack"
+  },
+  {
+    "id": 20,
+    "nama_bahan": "Keju Mozzarella Muji",
+    "kategori": "Produk Olahan",
+    "stok": 0,
+    "satuan": "kg"
+  },
+  {
+    "id": 21,
+    "nama_bahan": "Daun Jeruk Muji",
+    "kategori": "Bumbu",
+    "stok": 13,
+    "satuan": "ikat"
+  },
+  {
+    "id": 22,
+    "nama_bahan": "Ikan Salmon Muji",
+    "kategori": "Seafood",
+    "stok": 5,
+    "satuan": "kg"
+  },
+  {
+    "id": 23,
+    "nama_bahan": "Daun Kemangi Muji",
+    "kategori": "Sayuran",
+    "stok": 2,
+    "satuan": "ikat"
+  },
+  {
+    "id": 24,
+    "nama_bahan": "Lada Hitam Muji",
+    "kategori": "Bumbu",
+    "stok": 14,
+    "satuan": "kg"
+  }
+]
